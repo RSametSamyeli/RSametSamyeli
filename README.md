@@ -1,10 +1,24 @@
-<h2 align="center">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Sam. Full Stack Web Developer :computer:<br>
-  <br>
-    <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+
+
+## hey there! i'm sam, full-stack developer. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br>
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+hi, i'm [Samet Samyeli](https://tr.linkedin.com/in/samet-samyeli-64388075), a passionate self-taught full stack web developer and a freelance software engineer from Turkei. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+ 
+- 💼 any freelance work? do reach, [email](mailto:ruzgarsamet@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+</br>
+</br>
+</br>
+
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -29,10 +43,11 @@
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="center">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sametsamyeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://tr.linkedin.com/in/samet-samyeli-64388075)](https://www.linkedin.com/in/samet-samyeli) [![Twitter Badge](https://img.shields.io/badge/-@sametsamyeli2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sametsamyeli2)](https://twitter.com/sametsamyeli2) [![Facebook Badge](https://img.shields.io/badge/-@samet.samyeli-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Samet.Samyeli/)](https://www.facebook.com/samet.samyeli) [![Instagram Badge](https://img.shields.io/badge/-@frontend.sam-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/frontend.sam)](https://www.instagram.com/frontend.sam)
+
+[![Linkedin Badge](https://img.shields.io/badge/-sametsamyeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://tr.linkedin.com/in/samet-samyeli-64388075)](https://tr.linkedin.com/in/samet-samyeli-64388075) [![Twitter Badge](https://img.shields.io/badge/-@sametsamyeli2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sametsamyeli2)](https://twitter.com/sametsamyeli2) [![Facebook Badge](https://img.shields.io/badge/-@samet.samyeli-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Samet.Samyeli/)](https://www.facebook.com/samet.samyeli) [![Instagram Badge](https://img.shields.io/badge/-@frontend.sam-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/frontend.sam)](https://www.instagram.com/frontend.sam) 
+
