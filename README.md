@@ -42,7 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- 🖊️ I studied Computer Engineering at Suleyman Demirel University (2014-2018 🎓)
+- 🖊️ I studied Computer Science at Suleyman Demirel University (2014-2018 🎓)
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - 🎉 Fun fact: I'm professional Laser sailor also I really love nature.<br>
