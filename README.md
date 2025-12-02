@@ -6,9 +6,19 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-hi, i'm [Samet Samyeli](https://tr.linkedin.com/in/samet-samyeli-64388075), a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Samet Samyeli](https://tr.linkedin.com/in/samet-samyeli-64388075), self-taught fullstack developer & tech. founder of gazla.co building türkiye's most ambitious startup platform connecting founders with global investors. launched with a single tweet: 150k impressions, 3,500 visitors, zero funding, zero external support.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+by day, i'm a medical imaging software engineer working remotely with us-based healthcare teams. hipaa certified. i build clinical tools on dicom, cornerstone, and ohif where patient data security isn't optional and mistakes aren't allowed.
+
+i've shipped projects for vakko, lc waikiki, koton, and samsung turkey. high-stakes clients, tight deadlines, zero complaints.
+
+when turkey's devastating earthquake hit in february 2023, i helped establish the open software network (aya) and contributed to emergency platforms like afetharita and deprem.io volunteer-built tech that made a real difference on the ground. time magazine covered the movement.
+
+outside of code: 13 medals, 2 cups, mediterranean sailing champion in ilca class. sailing taught me how to make fast decisions in changing conditions — a skill that transfers directly to building products.
+
+i build things. i ship things. i solve hard problems.
+
+open to new projects and collaborations.
 
 
  
@@ -45,7 +55,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 🖊️ I studied Computer Science at Suleyman Demirel University (2014-2018 🎓)
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- 🎉 Fun fact: I'm professional Laser sailor also I really love nature.<br>
+- 🎉 Fun fact: I'm professional ILCA - Laser sailor also I really love nature.<br>
 
 <h2 align="center">:heart: Let's get connected:</h2>
 
