@@ -18,13 +18,3 @@ outside of code: 13 medals, 2 cups, mediterranean sailing champion in ilca class
 
 i build things. i ship things. i solve hard problems.
 
-open to new projects and collaborations.
-
-
- 
-- 💼 any freelance work? do reach, [email](mailto:ruzgarsamet@gmail.com) :)
-- 💬 ask me about anything, i am happy to help
-[![Linkedin Badge](https://img.shields.io/badge/-sametsamyeli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://tr.linkedin.com/in/samet-samyeli-64388075)](https://tr.linkedin.com/in/samet-samyeli-64388075) [![Twitter Badge](https://img.shields.io/badge/-@sametsamyeli2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sametsamyeli2)](https://twitter.com/sametsamyeli2) [![Facebook Badge](https://img.shields.io/badge/-@samet.samyeli-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Samet.Samyeli/)](https://www.facebook.com/samet.samyeli) [![Instagram Badge](https://img.shields.io/badge/-@frontend.sam-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/frontend.sam)](https://www.instagram.com/frontend.sam) 
-
-<img src="https://github.com/xhasansun/xhasansun/raw/output/github-contribution-grid-snake.svg">
-
