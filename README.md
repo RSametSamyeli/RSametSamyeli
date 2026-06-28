@@ -6,7 +6,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-hi, i'm [Samet Samyeli](https://linkedin.com/in/sametsamyeli), self-taught fullstack developer & tech. founder of gazla.co building türkiye's most ambitious startup platform connecting founders with global investors. launched with a single tweet: 150k impressions, 3,500 visitors, zero funding, zero external support.
+hi, i'm [Samet Samyeli](https://linkedin.com/in/sametsamyeli), self-taught fullstack developer & tech. founder of [gazla.co](https://gazla.co) building türkiye's most ambitious startup platform connecting founders with global investors. launched with a single tweet: 150k impressions, 3,500 visitors, zero funding, zero external support. also building a fully capable "founder os" that is hallucination-free, offers bank-grade security, and features workflow, kanban, and obsidian-style graph and karpathy-llm wiki capabilities. [lodos.md](https://lodos.md) 
 
 by day, i'm a medical imaging software engineer working remotely with usa-based healthcare teams from türkiye. hipaa certified. i build clinical tools on dicom, cornerstone, and ohif where patient data security isn't optional and mistakes aren't allowed.
 
