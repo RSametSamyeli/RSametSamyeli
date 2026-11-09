@@ -18,3 +18,4 @@ outside of code: 13 medals, 2 cups, mediterranean sailing champion in ilca class
 
 i build things. i ship things. i solve hard problems.
 
+also my personal website [samye.li](https://samye.li) 
